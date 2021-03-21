@@ -3,12 +3,22 @@
 <html>
 <head>
 <meta charset="utf-8">
+<<<<<<< HEAD
 <title> personal project site </title>
+=======
+<title> personal project site 
+</title>
+>>>>>>> deb297d7b862c7a7396faa1e9e52ee4fd543cbaf
 </head>
 
  <body>
 
  </body>
 
+<<<<<<< HEAD
  <h1> alexs site </h1> 
  
+=======
+ <h1> alexs site 
+ </h1> 
+>>>>>>> deb297d7b862c7a7396faa1e9e52ee4fd543cbaf

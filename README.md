@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/app.css">
                                       <style>
                                            h1 {color: rgb( 255, 106, 0);}
-                                           
+                                           font-family: 'Andale Mono Regular'
                                            </style>
                                            
                                            </head>

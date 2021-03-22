@@ -26,7 +26,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  height:980px;
  margin-left: auto;
  margin-right: auto;
- background-color: #cae3e8;}
+ background-color: #e6f1f2;}
                                            </style>
                                            
                                            </head>

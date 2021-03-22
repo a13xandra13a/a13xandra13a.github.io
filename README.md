@@ -22,7 +22,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                            
                                            </head>
                                            <body>
-   <div class="header"> <img scr="/Users/alexandralea/Desktop"> </div>
+   <div class="header"> <img scr="/Users/alexandralea/Desktop/untitled folder/alexssiteLogo2.png"> </div>
  
                                            <h1> alexs site</h1>
                                            <h3> about the project </h3>

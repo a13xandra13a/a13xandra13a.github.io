@@ -24,7 +24,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                            
                                            </head>
                                            <body>
-<img src="images/alexssiteLogo2.png" width="800" height="121" class="center">
+<img src="images/alexssiteLogo2.png" width="1000" height="140" class="center">
  
                                         
                                            <h3> about the project </h3>

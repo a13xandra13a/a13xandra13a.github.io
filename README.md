@@ -20,6 +20,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   margin-left: auto;
   margin-right: auto;}
  
+ img {max-width= 100%}
                                            </style>
                                            
                                            </head>

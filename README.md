@@ -7,7 +7,7 @@
   <meta name="description" content="">
  
   <link rel="stylesheet" href="css/app.css">
-  
+  <hr class="rounded">
   
                                       <style>
                                            h1 {color: rgb( 255, 106, 0);}
@@ -16,7 +16,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 }
 
-     
+   hr.rounded  {border-top: 3px solid #ffb473; border-radius:5px;}
+ 
                                            </style>
                                            
                                            </head>

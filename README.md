@@ -16,7 +16,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 }
 
-   hr.rounded  {border-top: 3px solid #ffb473; border-radius:5px;}
+   hr.rounded  {border-top: 3px solid #ffb473; border-radius:5px solid #ffb473;}
  
                                            </style>
                                            

@@ -18,7 +18,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
   .center {display: block;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+  width: "100%"}
  
                                            </style>
                                            

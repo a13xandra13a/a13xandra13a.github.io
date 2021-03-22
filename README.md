@@ -18,14 +18,13 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
   .center {display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: "100%"}
+  margin-right: auto;}
  
                                            </style>
                                            
                                            </head>
                                            <body>
-<img src="images/alexssiteLogo2.png" width="400" height="121" class="center">
+<img src="images/alexssiteLogo2.png" width="800" height="121" class="center">
  
                                         
                                            <h3> about the project </h3>

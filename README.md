@@ -15,7 +15,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 }
   #container {width: 720px; height: 980px margin-left: auto margin-right: auto 
-    background-image: url (  ) }
+    background-image: url (https://a13xandra13a.github.io/alexssiteLogo.png) }
      
                                            </style>
                                            

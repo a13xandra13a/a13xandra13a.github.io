@@ -7,7 +7,7 @@
   <meta name="description" content="">
  
   <link rel="stylesheet" href="css/app.css">
-  <hr class="rounded">
+
   
                                       <style>
                                            h1 {color: rgb( 255, 106, 0);}
@@ -16,15 +16,17 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 }
 
-   hr.rounded  {border-top: 3px solid #ffb473; border-radius:5px solid #ffb473;}
+  .center {display: block;
+  margin-left: auto;
+  margin-right: auto;}
  
                                            </style>
                                            
                                            </head>
                                            <body>
-<img src="images/alexssiteLogo2.png">
+<img src="images/alexssiteLogo2.png" class="center">
  
-                                           <h1> alexs site</h1>
+                                        
                                            <h3> about the project </h3>
                                            <p> For this project I decided to try to create a website from scratch rather than using a template, or another site that creates the website for you. I had a rough idea of what I wanted to do and began some online lessons. After this I looked for a site to create a domain and begin hosting my website. This process was quite tedious and I had to go through multiple articles, along with multiple sites, due to the fact that most of these where <em> Wix, </em> or <em> GoogleSites-esque </em>webpages. Once I found a webpage that I could create my own domain name in, and add in my own code, I waited for it register said site, and began typing up the base code I needed. </p>
                                            

@@ -33,7 +33,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                            <body>
 
  <div id="container">
-
+<div class="header"><img src="images/alexssiteLogo2.svg" width="400" height="125" class="center"></div>
 </div>
                                         
                                            <h3> about the project- </h3>

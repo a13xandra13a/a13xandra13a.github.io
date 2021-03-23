@@ -28,8 +28,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  margin-right: auto;
  background-color: #d5e3e2;}
  
- .header {margin-right: 0;
- margin-left: auto;}
+ .header {margin-right: auto;
+ margin-left: 0;}
                                            </style>
                                            
                                            </head>

@@ -22,7 +22,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  
  img {max-width= 100%}
  
- #container {width: 620px;
+ #container {width: 700px;
  height:800px;
  margin-left: auto;
  margin-right: auto;
@@ -33,7 +33,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                            <body>
 
  <div id="container">
-<div class="header"><img src="images/alexssiteLogo2.svg" width="600" height="200" class="center"></div>
+<div class="header"><img src="images/alexssiteLogo2.svg" width="600" height="190" class="center"></div>
 </div>
                                         
                                            <h3> about the project- </h3>

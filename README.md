@@ -38,7 +38,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .header1 {padding-top:185px;}
 
 .cornersqr {position: absolute;
-right: 26%}
+right: 20%}
                                            </style>
                                            
                                            </head>
@@ -46,7 +46,7 @@ right: 26%}
 
  <div id="container">
 <div class="header"><img src="images/alexssiteLogo2.svg" width="600" height="190"></div>
- <div class="cornersqr"><img scr="images/orangesqr.png" width="100" height="190"></div>
+ <div class="cornersqr"><img scr="images/orangesqr2.svg" width="100" height="190"></div>
  
                                          <h3 class="header1" > about the project: </h3>
                                            <p class="text1">

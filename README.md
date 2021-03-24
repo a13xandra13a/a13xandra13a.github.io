@@ -36,6 +36,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  .text1 {margin-top: 190px;}
  
 .header1 {padding-top:185px;}
+
+.cornersqr {position absolute;
+margin-right: 30px}
                                            </style>
                                            
                                            </head>
@@ -43,13 +46,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
  <div id="container">
 <div class="header"><img src="images/alexssiteLogo2.svg" width="600" height="190"></div>
-                                         
+ <div class="cornersqr"><img scr="images/orangesqr.png" width="100" height="190"></div>
+ 
                                          <h3 class="header1" > about the project: </h3>
                                            <p class="text1">
                                            For this project I decided to try to create a website from scratch rather than using a template, or another site that creates the website for you. I had a rough idea of what I wanted to do and began some online lessons. After this I looked for a site to create a domain and begin hosting my website. This process was quite tedious and I had to go through multiple articles, along with multiple sites, due to the fact that most of these where <em> Wix, </em> or <em> GoogleSites-esque </em>webpages. Once I found a webpage that I could create my own domain name in, and add in my own code, I waited for it register said site, and began typing up the base code I needed. </p>
                                            
                                            <h3> starting the site: </h3>
-                                          <p> I began to input the code onto the site that I found, and anytime I made a change I would reload the site to check and see if it worked. A lot of the time I would add something, and it would end up not working correctly, so I would go back into my code and make adjustments till I got it right. The main things that I had an issue with was getting the container with all of my text to show up, along with my header. </p>
+                                          <p> I began to input the code onto the site that I found, and anytime I made a change I would reload the site to check and see if it worked. A lot of the time I would add something, and it would end up not working correctly, so I would go back into my code and make adjustments till I got it right. The main things that I had an issue with was getting the container with all of my text to show up, along with my header. Once I got those two components working and well placed I began to add more things that were not as needed and more for fun. </p>
 </div>
                                         
 

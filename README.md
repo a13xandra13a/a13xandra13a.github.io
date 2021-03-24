@@ -37,8 +37,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  
 .header1 {padding-top:185px;}
 
-.cornersqr {position absolute;
-margin-right: 30px}
+.cornersqr {position: absolute;
+right: 0%}
                                            </style>
                                            
                                            </head>

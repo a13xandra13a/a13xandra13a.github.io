@@ -52,8 +52,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                            <body>
 
  <div id="container">
-<div class="header"><img src="images/alexssiteLogo2.svg" width="600" height="190" align= "right"></div>
- <div class="cornersqr"><img src="images/cornerfill.png" width="100" height="190"></div> 
+<div class="header"><img src="images/alexssiteLogo2.svg" width="599" height="190" align= "right"></div>
+ <div class="cornersqr"><img src="images/cornerfill.png" width="99" height="190"></div> 
  </div>
  
                                          <h3 class="header1" > about the project: </h3>

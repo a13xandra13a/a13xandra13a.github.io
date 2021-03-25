@@ -23,7 +23,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  img {max-width= 100%}
  
  #container {width: 700px;
- height:800px;
+ height:920px;
  margin-left: auto;
  margin-right: auto;
  background-color: #d5e3e2;}

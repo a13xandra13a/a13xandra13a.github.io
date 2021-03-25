@@ -52,7 +52,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                            <body>
 
  <div id="container">
-<div class="header"><img src="images/alexssiteLogo2.svg" width="590" height="190" align= "right"></div>
+<div class="header"><img src="images/alexssiteLogo2.svg" width="580" height="190" align= "right"></div>
  <div class="cornersqr"><img src="images/cornerfill.png" width="95" height="190"></div> 
  </div>
  

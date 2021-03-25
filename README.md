@@ -23,7 +23,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  img {max-width= 100%}
  
  #container {width: 700px;
- height:920px;
+ height:1000px;
  margin-left: auto;
  margin-right: auto;
  background-color: #d5e3e2;}
@@ -62,6 +62,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
                                           <p> I began to <em>input the code</em> onto the site that I found, and anytime I made a change I would<b> reload the site </b>to check and see if it worked. A lot of the time I would <em> add </em> something, and <b> it would end up not working </b> correctly, so I would go back into my code and make adjustments till I got it right. The <em> main things </em> that I had an issue with was getting the container with all of <em>my text to show up</em>, along with <em>my header</em>. Once I got those two components working my site was basically <b> done</b>.</p>
 
 <div class="code1"><img src="images/codepic1.png"></div>
+<div class="code1"><img src="images/codepic2.png"></div>
+<div class="code1"><img src="images/codepic3.png"></div>
 </div>
                                         
 

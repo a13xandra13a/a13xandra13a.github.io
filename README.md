@@ -40,9 +40,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  
  h3 {color: rgb( 255,106,0);}
  
- .text1 {margin-top: 190px;}
- 
-.header1 {padding-top:185px;}
+
 
 
 

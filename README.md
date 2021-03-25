@@ -44,6 +44,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
  
 .header1 {padding-top:185px;}
 
+.cornersqr {position: absolute;}
 
                                            </style>
                                            
@@ -52,9 +53,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
  <div id="container">
 <div class="header"><img src="images/alexssiteLogo2.svg" width="600" height="190" align= "right"></div>
- <div id="container2" align="left">
-  <div class="box"></div>
-  <div class="box overlay"></div>
+ <div class="cornersqr"><img scr="images/cornerfill.svg" width="100" height="190"></div> 
  </div>
  
                                          <h3 class="header1" > about the project </h3>
